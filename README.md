@@ -22,6 +22,10 @@ yarn
 yarn start
 ```
 
+## Todo's
+
+- [ ] Find a better way to parse the data !!
+
 ## Author
 
 👤 **Mattèo Guahtier**

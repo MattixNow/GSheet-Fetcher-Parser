@@ -14,6 +14,7 @@ const chalk = require("chalk")
 db.defaults({ plateforms: [] }).write()
 
 require("dotenv").config()
+db.set("plateforms", []).write()
 
 var platforms = []
 function addCourse(body, currentPlateform) {
