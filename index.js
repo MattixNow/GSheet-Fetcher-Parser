@@ -73,7 +73,7 @@ async function accessSpreadsheet() {
                 link: element.link,
                 plateform: element.plateform,
                 description: element.description,
-                note: element.note,
+                rating: element.rating,
                 price: element.price,
                 certificate: element.certificate
             },
