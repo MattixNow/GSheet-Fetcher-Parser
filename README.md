@@ -30,7 +30,7 @@ yarn start
 
 👤 **Mattèo Guahtier**
 
-* Website: semoule.fr
+* Website: mattèo.dev
 * Twitter: [@MattixNow](https://twitter.com/MattixNow)
 * Github: [@MattixNow](https://github.com/MattixNow)
 
